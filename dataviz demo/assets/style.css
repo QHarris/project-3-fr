@@ -1,0 +1,123 @@
+/* Just to make the demo easier to work with. */
+
+:root {
+    --spacing: 1em;
+}
+
+body {
+    font-family: sans-serif;
+    padding: var(--spacing);
+    padding-bottom: 33vh;
+}
+
+aside {
+    margin-bottom: calc(4 * var(--spacing));
+}
+
+h1 {
+    font-size: 600%;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+a {
+    color: blue;
+}
+
+p {
+    font-size: 3em;
+    font-weight: normal;
+}
+
+em {
+    font-style: italic
+}
+
+ul {
+    display: grid;
+    gap: calc(4 * var(--spacing));
+    margin-top: calc(4 * var(--spacing));
+}
+
+li {
+    display: grid;
+    gap: var(--spacing);
+    border-bottom: 1px dotted green;
+    padding-bottom: 2em;
+}
+
+time {
+    font-size: 80%;
+    font-weight: bold;
+}
+
+section {
+    display: grid;
+    gap: calc(4 * var(--spacing));
+    margin-top: calc(4 * var(--spacing));
+}
+
+.breed {
+    font-size: 5em;
+    margin-left: 20%;
+}
+
+.label--breed {
+    padding-right: 1em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-size: 14px;
+    color: grey;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+}
+
+.grid-item {
+    position: relative;
+    padding-top: 100%;
+    background-color: peachpuff;
+    border-radius: 20%;
+}
+
+.statistic {
+    position: absolute;
+    top: 20px;
+    left: 0;
+    right: 0;
+    bottom: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 400%;
+    color: tomato;
+}
+
+.label {
+    position: absolute;
+    bottom: 2em;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+    color: tomato;
+}
+
+.alert {
+    color: rgb(186, 152, 152);
+    background-color: rgb(252, 236, 236);
+}
+
+.chart-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>🐩 BIT 🐕</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="assets/reset.css" rel="stylesheet">
+    <link href="assets/style.css" rel="stylesheet">
+    <script defer src="assets/mybites.js"></script>
+    <script defer src="assets/mycharts.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>My Week of Getting Bit</h1>
+    </header>
+    <section class="intro">Since 2018, the Department of Health and Human Hygiene has collected dog bite data from reported incidents around the city. According to the NYC Health Code, dog bites from any animal are required to be reported within 24 hours of the event. This
+        helps the Health Department follow up with victims to avoid unecessary rabies shots. </section>
+    <section class="highlights">
+        <h2>Did you know…</h2>
+        <div class="grid-container">
+            <div class="grid-item">
+                <div class="statistic" id="count"></div>
+                <div class="label">Bites recorded since 2018</div>
+            </div>
+            <div class="grid-item">
+                <div class="statistic" id="topbreed"></div>
+                <div class="label">Most likely to bite you</div>
+            </div>
+            <div class="grid-item">
+                <div class="statistic" id="worstday"></div>
+                <div class="label">Most dangerous day of the week</div>
+            </div>
+        </div>
+
+    </section>
+    <section class="charts">
+        <div class="chart-container"></div>
+        <canvas id="breedChart"></canvas>
+        </div>
+    </section>
+    <section class="bitelist">
+        <ul id="mydata"></ul>
+    </section>
+</body>
+
+</html>

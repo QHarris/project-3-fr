@@ -1,0 +1,234 @@
+:root {
+	--size-1: 25px;
+}
+
+body {
+	font: 30px/1 monospace;
+}
+
+/* Always set the map height explicitly to define the size of the div element that contains the map. */
+#map {
+	width: 100%;
+  height: 100vh;
+}
+
+.gm-style .gm-style-iw-c {
+	border-radius: 0;
+	padding: 10px !important;
+	font-family: monospace;
+}
+
+.gm-style .gm-style-iw-c .gm-style-iw-d {
+	overflow: hidden !important;
+}
+
+/* popup exit button */
+.gm-ui-hover-effect>span {
+	width: 17px !important;
+	height: 17px !important;
+	margin: 6px !important;
+	background: blue !important;
+}
+
+.gm-control-active,
+.gm-svpc,
+.gmnoprint,
+.gm-style-cc,
+img[alt="Google"] {
+	display: none !important;
+}
+
+body {
+    background-image: url(../assets/blue-bckg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Inter', sans-serif;
+	color: white;
+}
+
+h1 {
+	font-size: 50px;
+    font-weight: 900;
+    padding-top: 50px;
+    display: inline-block;
+	text-align: center;
+}
+
+#logo {
+    width: 150px;
+    height: auto;
+    padding-left: 15px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+    row-gap: 20px;
+    column-gap: 20px;
+}
+
+#home {
+    width: 200px;
+    height: 70px;
+    background-color: #0058B2;
+    box-shadow: 8px 8px 5px #00152b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 36px;
+}
+
+#home:hover {
+    background-color: #7B7C7F;
+    transition: .4s;
+}
+
+#details {
+    width: 200px;
+    height: 70px;
+    background-color: #0058B2;
+    box-shadow: 8px 8px 5px #00152b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 36px;
+}
+
+#details:hover {
+    background-color: #7B7C7F;
+    transition: .4s;
+}
+
+#reviews {
+    width: 200px;
+    height: 70px;
+    background-color: #0058B2;
+    box-shadow: 8px 8px 5px #00152b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 36px;
+}
+
+#reviews:hover {
+    background-color: #7B7C7F;
+    transition: .4s;
+}
+
+#contact {
+    width: 200px;
+    height: 70px;
+    background-color: #0058B2;
+    box-shadow: 8px 8px 5px #00152b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 36px;
+}
+
+#contact:hover {
+    background-color: #7B7C7F;
+    transition: .4s;
+}
+
+
+u:hover {
+    font-style: italic;
+    transition: .3s;
+    color: #7B7C7F;
+}
+
+/* unvisited link */
+a:link {
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  a:active {
+    text-decoration: none;
+  }
+
+p {
+    color: white;
+}
+
+#light {
+	text-align: center;
+	font-weight: 100;
+}
+
+#bold {
+	text-align: center;
+	font-weight: 900;
+}
+
+.form {
+    margin: auto;
+    max-width: 50vw;
+    text-align: center;
+    font-weight: 100;
+}
+
+.box {
+    padding-top: 20px;
+}
+
+.textbox {
+    border: 2px;
+    /* border-color:#0058B2; */
+    background-color: #7B7C7F;
+    border-style: solid;
+    margin-top: 10px;
+    font-weight: 100;
+}
+
+#messagebox {
+    height: 200px;
+    width: 500px;
+}
+
+#no {
+    border-color: white;
+    border-style: solid;
+    border: 2px;
+    background-color: #7B7C7F;
+    width: 150px;
+}
+
+#no:active {
+    background-color:#494949;
+  }
+
+#congrats {
+max-width: 80vw;
+padding-top: 13%;
+}
+
+.center {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,67 @@
+uniqueid,dateofbite,species,breed,age,gender,spayneuter,borough,zipcode
+1001,May 11 2016,DOG,American Pit Bull Mix / Pit Bull Mix,1,U,FALSE,Brooklyn,11210
+1003,May 11 2016,DOG,Pit Bull,,U,FALSE,Brooklyn,11212
+1011,May 11 2016,DOG,Jack Russ,7,M,TRUE,Brooklyn,11238
+1016,May 11 2016,DOG,Pit Bull,,U,FALSE,Brooklyn,11212
+3080,May 11 2016,DOG,Shih Tzu,9,F,FALSE,Bronx,10451
+5114,May 11 2016,DOG,Unknown,,U,FALSE,Manhattan,10027
+5137,May 11 2016,DOG,Chihuahua Crossbreed,2,M,TRUE,Manhattan,10025
+5297,May 11 2016,DOG,Pit Bull,1,U,FALSE,Manhattan,10023
+6615,May 11 2016,DOG,Chihuahua,7,M,FALSE,Other,10566
+1005,May 12 2016,DOG,Beagle Crossbreed,4,M,TRUE,Brooklyn,11223
+1008,May 12 2016,DOG,POODLE X,12,M,TRUE,Brooklyn,11237
+1012,May 12 2016,DOG,Unknown,,U,FALSE,Brooklyn,
+1029,May 12 2016,DOG,Rottweiler,2,M,TRUE,Brooklyn,11215
+3076,May 12 2016,DOG,Jack Russ,8,M,TRUE,Bronx,10461
+3078,May 12 2016,DOG,Bull dog,6,M,FALSE,Bronx,10469
+3081,May 12 2016,DOG,HUSKY,,U,FALSE,Bronx,
+5118,May 12 2016,DOG,MASTIFF,2 YRS,M,TRUE,Manhattan,
+7974,May 12 2016,DOG,Yorkshire Terrier,13,M,TRUE,Queens,11356
+7976,May 12 2016,DOG,Shih Tzu,2,M,FALSE,Queens,
+8055,May 12 2016,DOG,Bull dog,,U,FALSE,Queens,11374
+9767,May 12 2016,DOG,Shih Tzu,8 YRS,M,TRUE,Staten Island,10306
+9768,May 12 2016,DOG,Boxer,10 MTHS,M,FALSE,Staten Island,10307
+1013,May 13 2016,DOG,Pit Bull,,U,FALSE,Brooklyn,
+3083,May 13 2016,DOG,Chihuahua,1 YR,M,FALSE,Bronx,10453
+6586,May 13 2016,DOG,LASAH APSO/POODLE,9 YRS,M,TRUE,Other,10701
+7977,May 13 2016,DOG,MUTT,,F,FALSE,Queens,11429
+1006,May 14 2016,DOG,Pit Bull,4,U,FALSE,Brooklyn,11208
+1007,May 14 2016,DOG,Mixed/Other,,U,FALSE,Brooklyn,11235
+1014,May 14 2016,DOG,Pit Bull,,U,FALSE,Brooklyn,11238
+3082,May 14 2016,DOG,ALPACA,,U,FALSE,Bronx,10460
+3103,May 14 2016,DOG,Basset Hound,10,M,TRUE,Bronx,10471
+5116,May 14 2016,DOG,Chihuahua,6,M,TRUE,Manhattan,10019
+5138,May 14 2016,DOG,Unknown,,U,FALSE,Manhattan,10128
+6587,May 14 2016,DOG,MALTESE,2,M,TRUE,Other,11758
+7969,May 14 2016,DOG,Golden Retriever,3 YRS,M,TRUE,Queens,11378
+7970,May 14 2016,DOG,Maltese,2,M,TRUE,Queens,11365
+7972,May 14 2016,DOG,SHIH TZU/POODLE,3 YRS,M,FALSE,Queens,
+7983,May 14 2016,DOG,Chihuahua,,U,FALSE,Queens,11104
+8001,May 14 2016,DOG,"Poodle, Standard",,U,FALSE,Queens,11372
+1015,May 15 2016,DOG,Pit Bull,9,M,FALSE,Brooklyn,11209
+3107,May 15 2016,DOG,Miniature Pinscher,,U,FALSE,Bronx,10474
+5117,May 15 2016,DOG,American Pit Bull Mix / Pit Bull Mix,4 YRS,M,TRUE,Manhattan,10027
+5121,May 15 2016,DOG,SCOTTIE/LHASA AHPSO,14,F,TRUE,Manhattan,10028
+5122,May 15 2016,DOG,Unknown,,U,FALSE,Manhattan,10003
+7968,May 15 2016,DOG,Pit Bull,3 YRS,M,FALSE,Queens,11372
+7971,May 15 2016,DOG,German Shepherd,,U,FALSE,Queens,11373
+3084,May 16 2016,DOG,Unknown,,U,FALSE,Bronx,10457
+3124,May 16 2016,DOG,Chow Chow,,M,FALSE,Bronx,
+5119,May 16 2016,DOG,Labrador Retriever,1,F,TRUE,Manhattan,10016
+7973,May 16 2016,DOG,GERMAN SHEPHERD,7,M,FALSE,Queens,11434
+7982,May 16 2016,DOG,Beagle Crossbreed,8,U,FALSE,Queens,11418
+1010,May 17 2016,DOG,"Pointer, German Shorthaired",11 MTHS,M,FALSE,Brooklyn,11220
+1017,May 17 2016,DOG,American Staffordshire Terrier,2,M,TRUE,Brooklyn,11208
+1018,May 17 2016,DOG,Pit Bull,,U,FALSE,Brooklyn,11236
+1019,May 17 2016,DOG,Rottweiler,1,M,TRUE,Brooklyn,11204
+5120,May 17 2016,DOG,Unknown,,U,FALSE,Manhattan,10012
+9770,May 17 2016,DOG,PIT BULL,2,M,FALSE,Staten Island,10306
+1020,May 18 2016,DOG,Mixed/Other,2 YRS,M,TRUE,Brooklyn,11201
+1033,May 18 2016,DOG,Unknown,,U,FALSE,Brooklyn,
+3086,May 18 2016,DOG,Chihuahua,,U,FALSE,Bronx,10458
+3087,May 18 2016,DOG,Shih Tzu,,U,FALSE,Bronx,
+7978,May 18 2016,DOG,Pit Bull,,F,TRUE,Queens,11436
+7980,May 18 2016,DOG,Unknown,,U,FALSE,Queens,11356
+7981,May 18 2016,DOG,Chihuahua,5,M,TRUE,Queens,
+7993,May 18 2016,DOG,Beagle,15 YRS,M,TRUE,Queens,
+8023,May 18 2016,DOG,Maltese,2 YRS,F,FALSE,Queens,11422
