@@ -213,3 +213,26 @@ p {
     transition: ;
 }
 
+@media only screen and (max-width: 768px) {
+    .nav {
+      display: flex;
+      flex-wrap: wrap;
+      grid-template-columns: repeat(2, 1fr);
+      margin: 0%;
+      margin-top: 25px;
+      padding-left: 115px;
+      float: none;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    #logo {
+      display: none;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .buttons {
+      margin-bottom: 20px;
+    }
+  }
